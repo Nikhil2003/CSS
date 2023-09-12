@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(47, 192, 28);
+}
+#first{
+    background-color: aquamarine;
+}
+#second{
+    background-color: coral;
+
+}
+.violet{
+    color: white
+}
+#third{
+    color: rgb(255, 125, 147)
+}
+.blue{
+    color:rgb(255, 0, 0)
+}
