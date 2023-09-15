@@ -1,0 +1,10 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.visible": true,
+    "workbench.tree.expandMode": "singleClick",
+    "workbench.startupEditor": "welcomePage",
+    "workbench.reduceMotion": "auto",
+    "workbench.editor.centeredLayoutAutoResize": true,
+    "workbench.editor.enablePreview": true,
+    "application.experimental.rendererProfiling": true
+}
